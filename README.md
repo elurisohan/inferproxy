@@ -1,1 +1,1 @@
-# RAG Based Document QA System
+# Inferproxy
